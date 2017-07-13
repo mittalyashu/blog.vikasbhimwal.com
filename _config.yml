@@ -1,0 +1,29 @@
+title: Vikas Bhimwal
+description: This is my blogging website
+
+url: http://vikasbhimwal.com
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: http://vikasbhimwal.com
+ - title: Contact
+   url: /contact
+
+social:
+#   github: brianmaierjr
+#   twitter: vikas
+  facebook: profile.php?id=100006647147468
+  instagram: vihanbhimwal/
+  email: vkbhimwal@gmail.com
+
+google_analytics: "UA-98183124-1"
