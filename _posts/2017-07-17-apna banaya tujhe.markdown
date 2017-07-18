@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "apna banaya tujhe"
+title:  "Apna Banaya Tujhe"
 date:   2017-07-17
 ---
 
