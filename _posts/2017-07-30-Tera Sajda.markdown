@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tera Sajda
+title:  "Tera Sajda"
 date:   2017-7-30
 ---
 
